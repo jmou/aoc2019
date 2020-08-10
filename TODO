@@ -1,0 +1,12 @@
+vim plugin
+go error handling
+generators
+non-null type
+gocode, gopls for completion
+:GoImport, remove them via :GoDro
+:GoCoverage
+go get
+$GOBIN, $GOPATH
+go defaults to tabs?
+https://jordanorelli.com/post/42369331748/function-types-in-go-golang
+rob pike's lexical scanning in go with func return types
